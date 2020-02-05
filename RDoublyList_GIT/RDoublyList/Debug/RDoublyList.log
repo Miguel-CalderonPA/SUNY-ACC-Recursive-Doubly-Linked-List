@@ -1,0 +1,8 @@
+﻿  OrdList.cpp
+  Source.cpp
+C:\Users\Miguel\Documents\SUNY_ACC\CIS-243\CIS-243\Projects\rDoublyLinkedList\RDoublyList_GIT\RDoublyList\Source.cpp(35,82): warning C4101: 'item11': unreferenced local variable
+C:\Users\Miguel\Documents\SUNY_ACC\CIS-243\CIS-243\Projects\rDoublyLinkedList\RDoublyList_GIT\RDoublyList\Source.cpp(35,90): warning C4101: 'item12': unreferenced local variable
+C:\Users\Miguel\Documents\SUNY_ACC\CIS-243\CIS-243\Projects\rDoublyLinkedList\RDoublyList_GIT\RDoublyList\Source.cpp(35,106): warning C4101: 'item14': unreferenced local variable
+C:\Users\Miguel\Documents\SUNY_ACC\CIS-243\CIS-243\Projects\rDoublyLinkedList\RDoublyList_GIT\RDoublyList\Source.cpp(35,98): warning C4101: 'item13': unreferenced local variable
+  Generating Code...
+  RDoublyList.vcxproj -> C:\Users\Miguel\Documents\SUNY_ACC\CIS-243\CIS-243\Projects\rDoublyLinkedList\RDoublyList_GIT\Debug\RDoublyList.exe
